@@ -1,0 +1,2 @@
+This is from FreeCodeCamp Introduction to the Python course which is helping me to understand how does the if function works and how does another function can be added into the else segment and many more. But this is hard one for me to do I have to watched videos and seek help from AI. If anyone have the better understanding of this please let me know in my instagram 'md_asik_11_'
+I would be glad if you help me out with this.
